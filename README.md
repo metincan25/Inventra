@@ -1,6 +1,6 @@
 # 📦 Inventra - Depo ve Stok Takip Uygulaması
 
-Inventra, küçük ve orta ölçekli işletmelerin **stok**, **sipariş** ve  **cari** gib işlemlerini kolayca yönetebileceği kullanıcı tabanlı bir depo takip sistemidir. Uygulama C# WinForms ve SQL Server teknolojileriyle geliştirilmiştir.
+Inventra, küçük ve orta ölçekli işletmelerin **stok**, **sipariş** ve  **cari** gibi işlemlerini kolayca yönetebileceği kullanıcı tabanlı bir depo takip sistemidir. Uygulama C# WinForms ve SQL Server teknolojileriyle geliştirilmiştir.
 
 ## 🚀 Özellikler
 
