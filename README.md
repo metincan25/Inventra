@@ -67,7 +67,7 @@ Ana sayfada şu genel bilgiler görüntülenmektedir:
    - `App.config` veya bağlantı içeren sınıf dosyalarında `SqlConnection`'ın `Data Source` kısmını kendi SQL Server adınıza göre değiştirin.
 
 3. **Çalıştırma**
-   - Visual Studio'dan projeyi açın ve `Inventra.sln` dosyasını çalıştırarak uygulamayı başlatın.
+   - Visual Studio'dan projeyi açın ve `DepoProjem.sln` dosyasını çalıştırarak uygulamayı başlatın.
      
 4. **Çoklu Kullanıcı**
    -Bu işlem ticari kullanım içindir.
